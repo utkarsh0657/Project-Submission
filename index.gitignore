@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+
+# Virtual Environment
+/venv/
+
+*.zip
